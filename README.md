@@ -5,7 +5,8 @@ An interactive Tableau project exploring sales performance, profitability, and g
 ## Live Tableau Views
 
 - **Executive Sales Dashboard:** [Open on Tableau Public](https://public.tableau.com/app/profile/rashi.naik/viz/202609030/ExecutiveSalesDashboard?publish=yes)
-- **Tableau Story:** **Add your published Story URL here before committing**.
+- **Tableau Story:**
+- (https://public.tableau.com/app/profile/rashi.naik/viz/RashiNaikStory202609030/Story1?publish=yes) 
 
 > **Data and confidentiality note:** This repository is intended to document the Tableau work and link to the published views. Before making the repository public, confirm that the dataset and Tableau views are permitted for public sharing. Do not upload restricted source data, private workbooks, or data containing personal or confidential information. If the dataset is not licensed for redistribution, link to its original source rather than including a copy.
 
@@ -51,20 +52,28 @@ tableau-executive-sales-portfolio/
 
 ## Screenshots
 
-Add approved screenshots to the `screenshots/` folder after checking that they contain no confidential data. Suggested images:
+Contain :
+1.Dashboard 1
+2.Dashboard 2
+3.Story1a
+4.Story1b
+5.Story1c
+6.Story1d
+7.Story1e
+8.Story1f
+9.Story1g
+10.Story1h
 
-1. `executive-dashboard.png` — main dashboard
-2. `sales-story.png` — Tableau Story overview
 
-Avoid screenshots that reveal restricted data, account details, or private Tableau authoring information.
 
 ## Dataset
 
-Dataset details and attribution should be added here once confirmed. Do not commit a copy of the dataset unless its licence explicitly permits redistribution.
+The project uses the Sample Superstore dataset to analyse sales, profit, product categories, and regional performance.
+
 
 ## How to View
 
-Use the Tableau Public links above to interact with the published dashboard and story. A Tableau Public link is not a substitute for permission to disclose the underlying data.
+Explore the interactive Tableau Executive Sales Dashboard and Story using the links above. The visualisations allow you to examine sales trends, profitability, and performance across categories and regions.
 
 ## Author
 
