@@ -4,9 +4,10 @@ An interactive Tableau dashboard and story analysing sales performance, profitab
 
 ## Live Tableau Views
 
-- **Executive Sales Dashboard:** [Open on Tableau Public](https://public.tableau.com/app/profile/rashi.naik/viz/202609030/ExecutiveSalesDashboard?publish=yes)
-- **Tableau Story:**
-- (https://public.tableau.com/app/profile/rashi.naik/viz/RashiNaikStory202609030/Story1?publish=yes) 
+- **Executive Sales Dashboard:** [Executive Sales Dashboard](https://public.tableau.com/app/profile/rashi.naik/viz/202609030/ExecutiveSalesDashboard?publish=yes)
+  
+- **Tableau Story:**[Tableau Story]
+  (https://public.tableau.com/app/profile/rashi.naik/viz/RashiNaikStory202609030/Story1?publish=yes)
 
 
 
@@ -50,19 +51,16 @@ tableau-executive-sales-portfolio/
     └── README.md
 ```
 
-## Screenshots
 
-Contain :
-1.Dashboard 1
-2.Dashboard 2
-3.Story1a
-4.Story1b
-5.Story1c
-6.Story1d
-7.Story1e
-8.Story1f
-9.Story1g
-10.Story1h
+## Dashboard Preview
+
+![Executive Sales Dashboard](screenshots/dashboard-1.png)
+
+![Dashboard Analysis](screenshots/dashboard-2.png)
+
+## Tableau Story
+
+![Story Overview](screenshots/story-1.png)
 
 
 
