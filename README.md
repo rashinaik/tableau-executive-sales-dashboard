@@ -61,17 +61,21 @@ tableau-executive-sales-portfolio/
 
 ## Tableau Story Preview
 
-![Story 1](screenshots/Story1a.png)
+![Story 1](Story1a.png)
 
-![Story 2](screenshots/Story1b.png)
+![Story 2](Story1b.png)
 
-![Story 3](screenshots/Story1c.png)
+![Story 3](Story1c.png)
 
-![Story 4](screenshots/Story1d.png)
+![Story 4](Story1d.png)
 
-## Tableau Story
+![Story 5](Story1e.png)
 
-![Story Overview](screenshots/story-1.png)
+![Story 6](Story1f.png)
+
+![Story 7](Story1g.png)
+
+![Story 8](Story1h.png)
 
 
 
