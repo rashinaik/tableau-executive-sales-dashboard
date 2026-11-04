@@ -40,15 +40,20 @@ This dashboard is designed to help users explore sales and profitability through
 
 ## Repository Structure
 
-```text
-tableau-executive-sales-portfolio/
+tableau-executive-sales-dashboard/
 ├── README.md
-├── .gitignore
+├── Story1a.png
+├── Story1b.png
+├── Story1c.png
+├── Story1d.png
+├── Story1e.png
+├── Story1f.png
+├── Story1g.png
+├── Story1h.png
 ├── screenshots/
-│   └── README.md
+│   ├── Dashboard 1.png
+│   └── Dashboard 2.png
 └── assets/
-    └── README.md
-```
 
 
 ## Dashboard Preview
