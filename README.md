@@ -1,6 +1,6 @@
 # Executive Sales Dashboard & Story — Tableau
 
-An interactive Tableau project exploring sales performance, profitability, and geographic patterns across a US-focused sales dataset.
+An interactive Tableau dashboard and story analysing sales performance, profitability, product categories, and regional trends using the Sample Superstore dataset.
 
 ## Live Tableau Views
 
