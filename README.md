@@ -6,7 +6,7 @@ An interactive Tableau dashboard and story analysing sales performance, profitab
 
 - **Executive Sales Dashboard:** [Executive Sales Dashboard](https://public.tableau.com/app/profile/rashi.naik/viz/202609030/ExecutiveSalesDashboard?publish=yes)
   
-**Tableau Story:** [Tableau Story](https://public.tableau.com/app/profile/rashi.naik/viz/RashiNaikStory202609030/Story1?publish=yes)
+- **Tableau Story:** [Tableau Story](https://public.tableau.com/app/profile/rashi.naik/viz/RashiNaikStory202609030/Story1?publish=yes)
 
 
 
@@ -40,6 +40,10 @@ This dashboard is designed to help users explore sales and profitability through
 
 ## Repository Structure
 
+
+## Repository Structure
+
+```text
 tableau-executive-sales-dashboard/
 ├── README.md
 ├── Story1a.png
@@ -54,6 +58,8 @@ tableau-executive-sales-dashboard/
 │   ├── Dashboard 1.png
 │   └── Dashboard 2.png
 └── assets/
+```
+
 
 
 ## Dashboard Preview
