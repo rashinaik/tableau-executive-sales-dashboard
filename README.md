@@ -6,7 +6,7 @@ An interactive Tableau dashboard and story analysing sales performance, profitab
 
 - **Executive Sales Dashboard:** [Executive Sales Dashboard](https://public.tableau.com/app/profile/rashi.naik/viz/202609030/ExecutiveSalesDashboard?publish=yes)
   
-- **Tableau Story:**[Tableau Story]
+- **Tableau Story:** [Tableau Story]
   (https://public.tableau.com/app/profile/rashi.naik/viz/RashiNaikStory202609030/Story1?publish=yes)
 
 
