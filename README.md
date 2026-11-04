@@ -8,7 +8,7 @@ An interactive Tableau project exploring sales performance, profitability, and g
 - **Tableau Story:**
 - (https://public.tableau.com/app/profile/rashi.naik/viz/RashiNaikStory202609030/Story1?publish=yes) 
 
-> **Data and confidentiality note:** This repository is intended to document the Tableau work and link to the published views. Before making the repository public, confirm that the dataset and Tableau views are permitted for public sharing. Do not upload restricted source data, private workbooks, or data containing personal or confidential information. If the dataset is not licensed for redistribution, link to its original source rather than including a copy.
+
 
 ## Project Overview
 
